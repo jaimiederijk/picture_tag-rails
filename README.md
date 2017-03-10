@@ -15,7 +15,7 @@ from the W3C HTML Responsive Images Extension Proposal.
 
 ## Requirements
 
-* [Ruby on Rails](http://rubyonrails.org) > 3.0 and < 4.0
+* [Ruby on Rails](http://rubyonrails.org) > 3.0
 
 
 
